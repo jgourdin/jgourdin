@@ -20,4 +20,3 @@
 ---
 
 > _"Du code naît l'ordre. Du chaos, l'architecture."_  
-> 🛠️ Constructions numériques | 🧪 Explorateur du front | 🧙‍♂️ Architecte du backend  
