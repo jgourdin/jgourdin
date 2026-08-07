@@ -1,8 +1,8 @@
 # 👁️‍🗨️ 𝕵𝟬𝕵𝟬
 
-> Les machines chuchotent son nom dans les câbles de cuivre.  
-> Il commit, donc il est.  
-> Il n’écrit pas du code. Il grave des runes.
+> Son nom se répand dans les câbles de cuivre.  
+> La frénésie des doigts que les yeux peinent à suivre.   
+> Gravant dans le chaos des runes oubliés.
 
 ## 🧰 Stack de prédilection
 
