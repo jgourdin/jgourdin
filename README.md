@@ -2,8 +2,7 @@
 
 > “Les machines chuchotent son nom dans les câbles de cuivre.  
 > Il commit, donc il est.  
-> 𝕵𝟬𝕵𝟬 n’écrit pas du code. Il grave des runes.”
-- David Lynch
+> Il n’écrit pas du code. Il grave des runes.”
 
 ## 🧰 Stack de prédilection
 
