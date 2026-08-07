@@ -1,8 +1,8 @@
 # 👁️‍🗨️ 𝕵𝟬𝕵𝟬
 
-> “Les machines chuchotent son nom dans les câbles de cuivre.  
+> Les machines chuchotent son nom dans les câbles de cuivre.  
 > Il commit, donc il est.  
-> Il n’écrit pas du code. Il grave des runes.”
+> Il n’écrit pas du code. Il grave des runes.
 
 ## 🧰 Stack de prédilection
 
